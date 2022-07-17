@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Solution1 {
+public class ImageLabelerSolution {
 	
 	public static void main(String[] args) {
 		
